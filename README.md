@@ -1,0 +1,2 @@
+# gameResourceManagement
+ゲームの素材管理等を行うためのツール
